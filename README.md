@@ -14,6 +14,15 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi 👋, I'm Kyle Nguyen</h1>
 <h3 align="center">A passionate full-stack developer</h3>
+<h3>In my free time, I enjoy traveling, snowboarding/skiing in Mammoth and other mountains, Playing all kinds of video games, competing in tennis and basketball, indoor rock-climbing, and riding my onewheel around. I also play Pokemon Go with my nephew</h3>
+
+
+Snowboarding and skiing at Mammoth Mountain and other snow resorts
+Playing in tennis rec leagues on a team or with friends
+Playing basketball in rec leagues on a team or with friends
+Riding my onewheel around towns, beaches, and other scenic routes, 
+Playing Pokemon Go with nephew
+Playing GT on my Racing Simulator 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
